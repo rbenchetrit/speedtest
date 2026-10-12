@@ -235004,3 +235004,67 @@ Sun Oct 11 04:00:01 PM EDT 2026
 RAW OUTPUT:
 {"download": 7192987.506950146, "upload": 7083934.310109867, "ping": 181.118, "server": {"url": "http://velocidade.hnaconecta.com.br:8080/speedtest/upload.php", "lat": "-3.7183", "lon": "-38.5428", "name": "Fortaleza", "country": "Brazil", "cc": "BR", "sponsor": "HNA Conecta", "id": "34082", "host": "velocidade.hnaconecta.com.br:8080", "d": 6134.751272085744, "latency": 181.118}, "timestamp": "2026-10-11T20:00:03.477219Z", "bytes_sent": 8912896, "bytes_received": 9055568, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
 
+Sun Oct 11 05:00:02 PM EDT 2026
+RAW OUTPUT:
+{"download": 11314505.03836836, "upload": 7801614.177976261, "ping": 160.991, "server": {"url": "http://speedtest.linkselect.com.br:8080/speedtest/upload.php", "lat": "-3.7183", "lon": "-38.5428", "name": "Fortaleza", "country": "Brazil", "cc": "BR", "sponsor": "LINK SELECT", "id": "36694", "host": "speedtest.linkselect.com.br:8080", "d": 6134.751272085744, "latency": 160.991}, "timestamp": "2026-10-11T21:00:05.985811Z", "bytes_sent": 10289152, "bytes_received": 15523312, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Sun Oct 11 06:00:01 PM EDT 2026
+RAW OUTPUT:
+{"download": 35443726.76399623, "upload": 36392833.21076805, "ping": 31.741, "server": {"url": "http://newyork02.speedtest.windstream.net:8080/speedtest/upload.php", "lat": "40.7127", "lon": "-74.0059", "name": "New York, NY", "country": "United States", "cc": "US", "sponsor": "Uniti", "id": "28032", "host": "newyork02.speedtest.windstream.net:8080", "d": 70.76529919656653, "latency": 31.741}, "timestamp": "2026-10-11T22:00:03.867581Z", "bytes_sent": 45711360, "bytes_received": 49339956, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Sun Oct 11 07:00:01 PM EDT 2026
+RAW OUTPUT:
+{"download": 40860518.22713392, "upload": 38787468.3131911, "ping": 25.174, "server": {"url": "http://newyork02.speedtest.windstream.net:8080/speedtest/upload.php", "lat": "40.7127", "lon": "-74.0059", "name": "New York, NY", "country": "United States", "cc": "US", "sponsor": "Uniti", "id": "28032", "host": "newyork02.speedtest.windstream.net:8080", "d": 70.76529919656653, "latency": 25.174}, "timestamp": "2026-10-11T23:00:04.395736Z", "bytes_sent": 48726016, "bytes_received": 52350516, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Sun Oct 11 08:00:01 PM EDT 2026
+RAW OUTPUT:
+{"download": 39885034.45501915, "upload": 37570732.10039148, "ping": 25.716, "server": {"url": "http://newyork02.speedtest.windstream.net:8080/speedtest/upload.php", "lat": "40.7127", "lon": "-74.0059", "name": "New York, NY", "country": "United States", "cc": "US", "sponsor": "Uniti", "id": "28032", "host": "newyork02.speedtest.windstream.net:8080", "d": 70.76529919656653, "latency": 25.716}, "timestamp": "2026-10-12T00:00:03.390556Z", "bytes_sent": 47169536, "bytes_received": 50609716, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Sun Oct 11 09:00:01 PM EDT 2026
+RAW OUTPUT:
+{"download": 27954181.999914367, "upload": 16088862.953192944, "ping": 133.199, "server": {"url": "http://teste.velusinternet.com.br:8080/speedtest/upload.php", "lat": "-23.4557", "lon": "-47.4883", "name": "Sorocaba", "country": "Brazil", "cc": "BR", "sponsor": "Velus Internet", "id": "71994", "host": "teste.velusinternet.com.br:8080", "d": 7685.015060795079, "latency": 133.199}, "timestamp": "2026-10-12T01:00:03.607079Z", "bytes_sent": 20398080, "bytes_received": 35173872, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Sun Oct 11 10:00:01 PM EDT 2026
+RAW OUTPUT:
+{"download": 32445702.42462915, "upload": 32792238.1392594, "ping": 135.14, "server": {"url": "http://speedtest.portonet.net.br:8080/speedtest/upload.php", "lat": "-23.2108", "lon": "-47.5213", "name": "Porto Feliz", "country": "Brazil", "cc": "BR", "sponsor": "Portonet", "id": "32862", "host": "speedtest.portonet.net.br:8080", "d": 7658.355325415853, "latency": 135.14}, "timestamp": "2026-10-12T02:00:03.446798Z", "bytes_sent": 41197568, "bytes_received": 41093155, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Sun Oct 11 11:00:01 PM EDT 2026
+RAW OUTPUT:
+{"download": 24070612.455426723, "upload": 9406035.987828603, "ping": 131.944, "server": {"url": "http://teste.velusinternet.com.br:8080/speedtest/upload.php", "lat": "-23.4557", "lon": "-47.4883", "name": "Sorocaba", "country": "Brazil", "cc": "BR", "sponsor": "Velus Internet", "id": "71994", "host": "teste.velusinternet.com.br:8080", "d": 7685.015060795079, "latency": 131.944}, "timestamp": "2026-10-12T03:00:03.537076Z", "bytes_sent": 12304384, "bytes_received": 30381552, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Mon Oct 12 12:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 24608621.186197855, "upload": 20326074.44529642, "ping": 144.301, "server": {"url": "http://speedtest.newlifeinformatica.com.br:8080/speedtest/upload.php", "lat": "-29.7600", "lon": "-51.1469", "name": "S\u00e3o Leopoldo", "country": "Brazil", "cc": "BR", "sponsor": "New Life Net", "id": "37804", "host": "speedtest.newlifeinformatica.com.br:8080", "d": 8228.953485315415, "latency": 144.301}, "timestamp": "2026-10-12T04:00:03.001063Z", "bytes_sent": 25772032, "bytes_received": 32163875, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Mon Oct 12 01:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 27148014.65209243, "upload": 16885645.468613748, "ping": 144.381, "server": {"url": "http://teste.sinal.net.br:8080/speedtest/upload.php", "lat": "-29.8389", "lon": "-51.1439", "name": "Sapucaia do Sul", "country": "Brazil", "cc": "BR", "sponsor": "SinalNet", "id": "26441", "host": "teste.sinal.net.br:8080", "d": 8237.412889100375, "latency": 144.381}, "timestamp": "2026-10-12T05:00:03.236782Z", "bytes_sent": 25010176, "bytes_received": 35826194, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Mon Oct 12 02:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 15175949.384346958, "upload": 33820463.870880894, "ping": 145.235, "server": {"url": "http://teste.sinal.net.br:8080/speedtest/upload.php", "lat": "-29.8389", "lon": "-51.1439", "name": "Sapucaia do Sul", "country": "Brazil", "cc": "BR", "sponsor": "SinalNet", "id": "26441", "host": "teste.sinal.net.br:8080", "d": 8237.412889100375, "latency": 145.235}, "timestamp": "2026-10-12T06:00:03.373335Z", "bytes_sent": 42393600, "bytes_received": 28408833, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Mon Oct 12 03:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 40446927.14642149, "upload": 34900784.18766281, "ping": 47.84, "server": {"url": "http://buft-speedtest-02.brightspeed.com:8080/speedtest/upload.php", "lat": "32.4316", "lon": "-80.6698", "name": "Beaufort, SC", "country": "United States", "cc": "US", "sponsor": "Brightspeed", "id": "69079", "host": "buft-speedtest-02.brightspeed.com:8080", "d": 1165.891148126333, "latency": 47.84}, "timestamp": "2026-10-12T07:00:03.210728Z", "bytes_sent": 43868160, "bytes_received": 52076496, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Mon Oct 12 04:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 36743638.4128648, "upload": 35336175.80075652, "ping": 58.211, "server": {"url": "http://speedtest.pineland.net:8080/speedtest/upload.php", "lat": "32.3971", "lon": "-82.0601", "name": "Metter, GA", "country": "United States", "cc": "US", "sponsor": "Pineland Telephone Co-Op", "id": "12563", "host": "speedtest.pineland.net:8080", "d": 1239.6917729703093, "latency": 58.211}, "timestamp": "2026-10-12T08:00:03.529558Z", "bytes_sent": 44277760, "bytes_received": 52463156, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Mon Oct 12 05:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 41076139.87230809, "upload": 36948871.65351958, "ping": 63.387, "server": {"url": "http://speedtest.pineland.net:8080/speedtest/upload.php", "lat": "32.3971", "lon": "-82.0601", "name": "Metter, GA", "country": "United States", "cc": "US", "sponsor": "Pineland Telephone Co-Op", "id": "12563", "host": "speedtest.pineland.net:8080", "d": 1239.6917729703093, "latency": 63.387}, "timestamp": "2026-10-12T09:00:03.312283Z", "bytes_sent": 46448640, "bytes_received": 54193716, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Mon Oct 12 06:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 17615987.979389858, "upload": 25132097.351579174, "ping": 60.345, "server": {"url": "http://indianapolis.speedtest.brightspeed.com:8080/speedtest/upload.php", "lat": "39.7910", "lon": "-86.1480", "name": "Indianapolis, IN", "country": "United States", "cc": "US", "sponsor": "Brightspeed", "id": "53404", "host": "indianapolis.speedtest.brightspeed.com:8080", "d": 1071.8669668103555, "latency": 60.345}, "timestamp": "2026-10-12T10:00:03.395938Z", "bytes_sent": 31940608, "bytes_received": 22255421, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Mon Oct 12 07:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 17618023.86630292, "upload": 22364422.966105357, "ping": 57.721, "server": {"url": "http://indianapolis.speedtest.brightspeed.com:8080/speedtest/upload.php", "lat": "39.7910", "lon": "-86.1480", "name": "Indianapolis, IN", "country": "United States", "cc": "US", "sponsor": "Brightspeed", "id": "53404", "host": "indianapolis.speedtest.brightspeed.com:8080", "d": 1071.8669668103555, "latency": 57.721}, "timestamp": "2026-10-12T11:00:04.407105Z", "bytes_sent": 29343744, "bytes_received": 22152469, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Mon Oct 12 08:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 14818145.080811225, "upload": 27001727.67765215, "ping": 227.931, "server": {"url": "http://indianapolis.speedtest.brightspeed.com:8080/speedtest/upload.php", "lat": "39.7910", "lon": "-86.1480", "name": "Indianapolis, IN", "country": "United States", "cc": "US", "sponsor": "Brightspeed", "id": "53404", "host": "indianapolis.speedtest.brightspeed.com:8080", "d": 1071.8669668103555, "latency": 227.931}, "timestamp": "2026-10-12T12:00:03.564243Z", "bytes_sent": 35643392, "bytes_received": 19547908, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
