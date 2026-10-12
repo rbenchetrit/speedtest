@@ -235060,3 +235060,11 @@ Mon Oct 12 06:00:01 AM EDT 2026
 RAW OUTPUT:
 {"download": 17615987.979389858, "upload": 25132097.351579174, "ping": 60.345, "server": {"url": "http://indianapolis.speedtest.brightspeed.com:8080/speedtest/upload.php", "lat": "39.7910", "lon": "-86.1480", "name": "Indianapolis, IN", "country": "United States", "cc": "US", "sponsor": "Brightspeed", "id": "53404", "host": "indianapolis.speedtest.brightspeed.com:8080", "d": 1071.8669668103555, "latency": 60.345}, "timestamp": "2026-10-12T10:00:03.395938Z", "bytes_sent": 31940608, "bytes_received": 22255421, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
 
+Mon Oct 12 07:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 17618023.86630292, "upload": 22364422.966105357, "ping": 57.721, "server": {"url": "http://indianapolis.speedtest.brightspeed.com:8080/speedtest/upload.php", "lat": "39.7910", "lon": "-86.1480", "name": "Indianapolis, IN", "country": "United States", "cc": "US", "sponsor": "Brightspeed", "id": "53404", "host": "indianapolis.speedtest.brightspeed.com:8080", "d": 1071.8669668103555, "latency": 57.721}, "timestamp": "2026-10-12T11:00:04.407105Z", "bytes_sent": 29343744, "bytes_received": 22152469, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
+Mon Oct 12 08:00:01 AM EDT 2026
+RAW OUTPUT:
+{"download": 14818145.080811225, "upload": 27001727.67765215, "ping": 227.931, "server": {"url": "http://indianapolis.speedtest.brightspeed.com:8080/speedtest/upload.php", "lat": "39.7910", "lon": "-86.1480", "name": "Indianapolis, IN", "country": "United States", "cc": "US", "sponsor": "Brightspeed", "id": "53404", "host": "indianapolis.speedtest.brightspeed.com:8080", "d": 1071.8669668103555, "latency": 227.931}, "timestamp": "2026-10-12T12:00:03.564243Z", "bytes_sent": 35643392, "bytes_received": 19547908, "share": null, "client": {"ip": "69.126.168.14", "lat": "41.2722", "lon": "-73.6041", "isp": "Optimum Online", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "US"}}
+
